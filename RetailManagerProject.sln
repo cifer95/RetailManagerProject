@@ -9,6 +9,8 @@ Project("{00D1A9C2-B5F0-4AF3-8072-F6C62B433612}") = "RMPData", "RMPData\RMPData.
 EndProject
 Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "RMPDesktopUI", "RMPDesktopUI\RMPDesktopUI.csproj", "{D4E1A24C-8ACB-4EB5-BA29-529755563034}"
 EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "RMPDataManager.Library", "RMPDataManager.Library\RMPDataManager.Library.csproj", "{DD959690-5781-4EBC-94C0-975CAD24782F}"
+EndProject
 Global
 	GlobalSection(SolutionConfigurationPlatforms) = preSolution
 		Debug|Any CPU = Debug|Any CPU
@@ -29,6 +31,10 @@ Global
 		{D4E1A24C-8ACB-4EB5-BA29-529755563034}.Debug|Any CPU.Build.0 = Debug|Any CPU
 		{D4E1A24C-8ACB-4EB5-BA29-529755563034}.Release|Any CPU.ActiveCfg = Release|Any CPU
 		{D4E1A24C-8ACB-4EB5-BA29-529755563034}.Release|Any CPU.Build.0 = Release|Any CPU
+		{DD959690-5781-4EBC-94C0-975CAD24782F}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{DD959690-5781-4EBC-94C0-975CAD24782F}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{DD959690-5781-4EBC-94C0-975CAD24782F}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{DD959690-5781-4EBC-94C0-975CAD24782F}.Release|Any CPU.Build.0 = Release|Any CPU
 	EndGlobalSection
 	GlobalSection(SolutionProperties) = preSolution
 		HideSolutionNode = FALSE
